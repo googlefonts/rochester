@@ -81,7 +81,7 @@ ShortTable: maxp 16
   3
   1
 EndShort
-LangName: 1033 "" "" "Regular" "" "" "Version 1.005" "" "Rochester is a trademark of Font Diner, Inc DBA Sideshow" "Font Diner, Inc DBA Sideshow" "Gillian Fisher" "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved. Available under the Apache 2.0 licence.+AA0A-http://www.apache.org/licenses/LICENSE-2.0.html" "http://www.fontbros.com/sideshow.php" "http://gillographic.com/" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "Rochester" "Regular" "Rochester" 
+LangName: 1033 "" "" "Regular" "" "Rochester Regular" "Version 1.005" "" "Rochester is a trademark of Font Diner, Inc DBA Sideshow" "Font Diner, Inc DBA Sideshow" "Gillian Fisher" "Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved. Available under the Apache 2.0 licence.+AA0A-http://www.apache.org/licenses/LICENSE-2.0.html" "http://www.fontbros.com/sideshow.php" "http://gillographic.com/" "Licensed under the Apache License, Version 2.0" "http://www.apache.org/licenses/LICENSE-2.0" "" "Rochester" "Regular" "Rochester"
 GaspTable: 1 65535 3
 Encoding: UnicodeBmp
 UnicodeInterp: none
